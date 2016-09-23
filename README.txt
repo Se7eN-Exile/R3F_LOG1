@@ -11,6 +11,7 @@ In description.ext
 #include "R3F_LOG\desc_include.h" // Regular Tow Script
 #include "R3F_LOG1\desc_include.h" // Tow Script for Seperate Vehicles
 
+This R3F Tow script does not have any Crate options or lift options available due to it duplicating from main R3F Script.
 
 I made this setup becuase I wanted a specific vehicle (B_Truck_01_mover_F) to be able to tow Helis / Planes / Boats / Tanks, while the rest of the vehicles can tow what you want them to.
 
